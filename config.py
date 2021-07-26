@@ -1,0 +1,8 @@
+BASE_URI = 'https://api.trello.com/1'
+API_KEY = '97e7cf0688f44aaf7e2006956b6bc310'
+TOKEN = 'b33e27b65c404880f37113eb337b716c456482a4aba32c5de6328451905dac35'
+baseURL='https://trello.com'
+username='ralejotm@hotmail.com'
+password='@lejandro12'
+browser='chrome'
+board_name= 'Plentific'
