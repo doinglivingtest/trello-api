@@ -17,9 +17,9 @@ export PYTHONPATH="${PYTHONPATH}:/Path/to/yout/project"
 
 Here you can find a short description of main directories and it's content
 
-api-tests - Set of tests for API(trello_tests.py) and UI(test_ui.py) level
-pageObjects - There are sets of method for each page/view  
-utils - this directory contains files responsible for utilities making easir some operations inside the framework
+* api-tests - Set of tests for API(trello_tests.py) and UI(test_ui.py) level
+* pageObjects - There are sets of method for each page/view  
+* utils - this directory contains files responsible for utilities making easir some operations inside the framework
 
 # Run test cases
 
